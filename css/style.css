@@ -1,0 +1,61 @@
+body{
+    background-color: lightpink;
+}
+
+h1 {
+    font-size: 135px;
+    color: darkslateblue;
+    text-align: justify;
+}
+
+h4 {
+    text-align: right;
+}
+
+footer {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+    text-align: right;
+}
+
+.protrait {
+    float: right;
+    width: 35%;
+}
+
+.introduction {
+    text-align: left;
+    padding-right: 20px;
+    font-size: medium;
+}
+
+.resume {
+    float: right;
+}
+
+.icon {
+    float:right;
+}
+
+.container-md {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.degree {
+    font-size: 18px;
+}
+
+.school{
+    font-size: 16px;
+}
+
+.skills{
+    font-size: 17px;
+}
+
+footer {
+    float: bottom;
+}

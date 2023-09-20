@@ -1,0 +1,28 @@
+body {
+    background-color: lightpink;
+}
+
+h1 {
+    color: darkslateblue;
+    text-align:center;
+}
+
+h2 {
+    color: indigo;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+.project1 {
+    font-weight: bold;
+}
+
+
+.demo {
+    width: 500px;
+}
+
+img {
+    width: 400px;
+}
