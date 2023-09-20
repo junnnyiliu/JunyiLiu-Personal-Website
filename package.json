@@ -1,0 +1,22 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "This is a personal-website for project#1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junnnyiliu/JunyiLiu-Personal-Website.git"
+  },
+  "keywords": [
+    "website"
+  ],
+  "author": "Junyi_ Liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/junnnyiliu/JunyiLiu-Personal-Website/issues"
+  },
+  "homepage": "https://github.com/junnnyiliu/JunyiLiu-Personal-Website#readme"
+}
